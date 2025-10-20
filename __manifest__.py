@@ -10,7 +10,7 @@
     'website': "https://www.qimamhd.com",
     'company': 'yousen Techno Solutions',
     'maintainer': 'yousen Techno Solutions',
-    'depends': ['base', 'account','sale','purchase','yousentech_invoicing_partners'],
+    'depends': ['base', 'account'],
     'data': [
 
 
