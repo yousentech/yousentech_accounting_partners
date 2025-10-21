@@ -10,12 +10,10 @@
     'website': "https://www.qimamhd.com",
     'company': 'yousen Techno Solutions',
     'maintainer': 'yousen Techno Solutions',
-    'depends': ['base', 'account'],
+    'depends': ['base', 'account' , 'yousentech_accounting'],
     'data': [
 
-
-    #    'views/sale_order.xml',     
-    #    'views/purchase_order.xml',
+        'security/security.xml',
     ],
 
     'license': 'LGPL-3',
